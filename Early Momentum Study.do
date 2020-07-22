@@ -528,19 +528,3 @@ margins, dydx(*) predict(outcome(4))
 			fitstat, diff
 			// AIC and BIC supports different models
 			// mlogit uses many more parameters
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
